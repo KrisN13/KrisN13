@@ -30,7 +30,7 @@ Background in education sharpened my ability to communicate technical findings t
 ## Featured Projects
 
 ### 🏫 School-centric Air Pollution in England
-> Analysed 24,000+ schools using PostGIS to prioritise £50M in pollution interventions — identifying 10x higher ROI priorities vs alternatives. Built an interactive Tableau dashboard with budget simulator for educational policymakers, protecting children in high-exposure areas 3–4x more efficiently than even distribution.
+> Analysed 24,000+ schools using PostGIS to prioritise £50M in pollution interventions - identifying 10x higher ROI priorities vs alternatives. Built an interactive Tableau dashboard with budget simulator for educational policymakers, protecting children in high-exposure areas 3 - 4x more efficiently than even distribution.
 
 [![Repo](https://img.shields.io/badge/Repo-uk--school--air--pollution-2D6A4F?style=flat-square&logo=github)](https://github.com/KrisN13/uk-school-air-pollution)
 [![Article](https://img.shields.io/badge/Read-Article-74C69D?style=flat-square&logo=firefox)](https://krisnoondata.com/using-data-to-protect-72-million-children-from-air-pollution/)
@@ -47,7 +47,7 @@ Background in education sharpened my ability to communicate technical findings t
 ---
 
 ### 🥔 Potato Disease Image Classification
-> Achieved 90%+ classification accuracy using a TensorFlow CNN for potato leaf disease detection — equipping farmers and agronomists with a rapid early-warning tool to reduce crop loss through timely blight intervention.
+> Achieved 90%+ classification accuracy using a TensorFlow CNN for potato leaf disease detection - equipping farmers and agronomists with a rapid early-warning tool to reduce crop loss through timely blight intervention.
 
 [![Repo](https://img.shields.io/badge/Repo-Potato__Blight__App-2D6A4F?style=flat-square&logo=github)](https://github.com/KrisN13/Potato_Blight_App)
 [![Article](https://img.shields.io/badge/Read-Article-74C69D?style=flat-square&logo=firefox)](https://krisnoondata.com/potato-blight-disease-application/)
